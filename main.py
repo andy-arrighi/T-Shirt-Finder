@@ -9,7 +9,7 @@ set_site_information(
     description="Find the best-fitting shirt size across clothing brands.",
     sources=["UD CISC 106 Final Project"],
     planning=["ANDY (1).docx", "Copy of CS1 Final Project 1_ Design (1).pdf"],
-    links=["https://github.com/"])
+    links=["https://github.com/andy-arrighi/T-Shirt-Finder"])
 
 hide_debug_information()
 set_website_framed(False)
